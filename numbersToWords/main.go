@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	var n int
-	fmt.Print("Enter an integer: ")
+	fmt.Print("Enter an integer from 0-1000: ")
 	fmt.Scanln(&n)
 	fmt.Print("Your integer in written English is:")
 
