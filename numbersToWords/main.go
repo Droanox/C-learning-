@@ -7,7 +7,7 @@ func main() {
 	var n int
 	fmt.Print("Enter an integer: ")
 	fmt.Scanln(&n)
-	fmt.Print("You're integer in English is:")
+	fmt.Print("Your integer in written English is:")
 
 	if n == 0 {
 		fmt.Println(" Zero")
